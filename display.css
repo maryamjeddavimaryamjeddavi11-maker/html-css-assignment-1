@@ -1,0 +1,18 @@
+.heading1{
+    background-color: peru;
+    font-style: oblique;
+    height: 50px;
+    width: 180px;
+}
+.heading2{
+    background-color:blueviolet;
+    font-style: initial;
+    height: 30px;
+    width: 130px;
+}
+.heading3{
+    background-color: yellow;
+    font-style: italic;
+    height: 30px;
+    width: 120px;
+}
